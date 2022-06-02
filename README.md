@@ -1,2 +1,2 @@
-# GinGo.github.io
+# Limqty.github.io
 site
